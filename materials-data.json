@@ -47,5 +47,5 @@
     "Izod Impact Strength [J/m]"
   ],
   "units": [" MPa", " GPa", "%", " GPa", " MPa", "°C", " J/m"],
-  "maxValues": [83, 7.3, 48, 5.2, 132, 214, 86]
+  "maxValues": [70, 6.0, 300, 6.0, 140, 200, 130]
 }
