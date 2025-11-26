@@ -9,7 +9,7 @@
     },
     {
       "name": "Nylon 12 Tough",
-      "color": "#00AEEF", 
+      "color": "#FF8C00", 
       "originalcolor": "#f093fb",
       "enabled": true,
       "data": [50, 1.5, 30, 1.4, 70, 108, 90]
@@ -22,7 +22,7 @@
     },
     {
       "name": "Nylon 12 GF",
-      "color": "#228B22", 
+      "color": "#FF1493", 
       "originalcolor": "#c66a5b", 
       "enabled": true,
       "data": [52, 3.2, 4, 3.0, 95, 182, 35]
