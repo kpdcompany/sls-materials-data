@@ -2,7 +2,7 @@
   "materials": [
     {
       "name": "Nylon 12",
-      "color": "#3cdbc0",/* */"#8e6fae",
+      "color": "#3cdbc0", "_comment": "#8e6fae", 
       "enabled": true,
       "data": [50, 1.9, 18, 1.6, 85, 171, 66]
     },
