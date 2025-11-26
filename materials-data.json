@@ -2,13 +2,13 @@
   "materials": [
     {
       "name": "Nylon 12",
-      "color": "#3cdabf", "_note": "Old Color", "#8e6fae", 
+      "color": "#3cdabf", "_note": "Old Color #8e6fae", 
       "enabled": true,
       "data": [50, 1.9, 18, 1.6, 85, 171, 66]
     },
     {
       "name": "Nylon 12 Tough",
-      "color": "#00AEEF", "_note": "Old Color", "#f093fb",
+      "color": "#00AEEF", "_note": "Old Color #f093fb",
       "enabled": true,
       "data": [50, 1.5, 30, 1.4, 70, 108, 90]
     },
@@ -20,7 +20,7 @@
     },
     {
       "name": "Nylon 12 GF",
-      "color": "#228B22", "_note": "Old Color", "#c66a5b", 
+      "color": "#228B22", "_note": "Old Color #c66a5b", 
       "enabled": true,
       "data": [52, 3.2, 4, 3.0, 95, 182, 35]
     },
